@@ -1,0 +1,15 @@
+<h1>{{cities}}</h1>
+<div>
+  <ol>
+    <li *ngFor="let item of cities">{{item}}</li>
+  </ol>
+</div>
+<hr>
+<table border="1">
+  <tr>
+    <td>Cities</td>
+  </tr>
+  <tr *ngFor="let k of cities">
+    <td>{{k}}</td>
+  </tr>
+</table>

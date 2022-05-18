@@ -1,0 +1,26 @@
+<div *ngFor="let student of students">
+  <pre>
+    StudentId:{{student.studentId}}
+    StudentName:{{student.studentName}}
+    Age:{{student.studentDob}}
+    Address:{{student.studentAddress}}
+  </pre>
+  <hr>
+</div>
+<hr>
+<div>
+  <table border="1">
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Address</th>
+    </tr>
+    <tr *ngFor="let student of students">
+   <td>{{student.studentId}}</td>
+   <td>{{student.studentName}}</td>
+   <td>{{student.studentDob}}</td>
+   <td>{{student.studentAddress}}</td>
+    </tr>
+  </table>
+</div>

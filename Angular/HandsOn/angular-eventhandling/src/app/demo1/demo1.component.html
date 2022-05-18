@@ -1,0 +1,42 @@
+<div>
+  <button on-click="SetTitle()">Click Me</button>
+  {{title}}
+  <table>
+    <tr>
+      <td>Enter Name</td>
+      <td><input type="text" name="" id="" #t1></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <!-- <button on-click="Greet('Sachin')">Greet</button> -->
+        <button on-click="Greet(t1.value)">Greet</button>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+      <h1>{{msg}}</h1>
+      </td>
+    </tr>
+  </table>
+</div>
+<hr>
+<div>
+  <table>
+    <tr>
+      <td>Select Country</td>
+      <td>
+        <select #s1 on-change="SetCountry(s1.value)">
+          <option value="India">India</option>
+          <option value="China">China</option>
+          <option value="US">US</option>
+          <option value="UK">UK</option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+      <h1>{{msg1}}</h1>
+      </td>
+    </tr>
+  </table>
+</div>

@@ -1,0 +1,4 @@
+1.Create new angular app
+2.Crate a Model Book(bookId,bookName,price,author,year)
+3.Creaet a Component and initialize Book object and bind to component view
+4.Create one more component and initialize array of Book objects and bind to view in a table fromat.

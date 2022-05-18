@@ -1,0 +1,48 @@
+<div>
+  <table>
+    <tr>
+      <td>Enter Id</td>
+      <td>
+        <input type="number" name="" id="" [(ngModel)]="item.productId">
+      </td>
+    </tr>
+    <tr>
+      <td>Enter Name</td>
+      <td>
+        <input type="text" name="" id="" [(ngModel)]="item.productName">
+      </td>
+    </tr>
+    <tr>
+      <td>Enter Price</td>
+      <td>
+        <input type="number" name="" id="" [(ngModel)]="item.price">
+      </td>
+    </tr>
+    <tr>
+      <td>Enter Stock</td>
+      <td>
+        <input type="number" name="" id="" [(ngModel)]="item.stock">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <button on-click="Save()">Save</button>
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <table border="1" style="width:300px ;">
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Price</th>
+      <th>Stock</th>
+    </tr>
+    <tr *ngFor="let item of items">
+      <td>{{item.productId}}</td>
+      <td>{{item.productName}}</td>
+      <td>{{item.price}}</td>
+      <td>{{item.stock}}</td>
+    </tr>
+  </table>
+</div>
