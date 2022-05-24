@@ -1,0 +1,5 @@
+Case Study Flow
+===================
+1. Create Tables
+2.Create Asp.net Core Web API Project
+3.Implement Case study functionalities

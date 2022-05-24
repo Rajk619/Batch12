@@ -1,0 +1,27 @@
+
+<div class="container">
+  
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Stock</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of products">
+        <td>{{item.productId}}</td>
+        <td>{{item.productName}}</td>
+        <td>{{item.price}}</td>
+        <td>{{item.stock}}</td>
+        <td>
+          <button on-click="Delete(item.productId)">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+</div>
+

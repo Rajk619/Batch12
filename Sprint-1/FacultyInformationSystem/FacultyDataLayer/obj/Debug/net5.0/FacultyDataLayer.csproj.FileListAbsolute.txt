@@ -1,0 +1,15 @@
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\bin\Debug\net5.0\FacultyDataLayer.deps.json
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\bin\Debug\net5.0\FacultyDataLayer.dll
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\bin\Debug\net5.0\ref\FacultyDataLayer.dll
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\bin\Debug\net5.0\FacultyDataLayer.pdb
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\obj\Debug\net5.0\FacultyDataLayer.csproj.AssemblyReference.cache
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\obj\Debug\net5.0\FacultyDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\obj\Debug\net5.0\FacultyDataLayer.AssemblyInfoInputs.cache
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\obj\Debug\net5.0\FacultyDataLayer.AssemblyInfo.cs
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\obj\Debug\net5.0\FacultyDataLayer.csproj.CoreCompileInputs.cache
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\obj\Debug\net5.0\FacultyDataLayer.dll
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\obj\Debug\net5.0\ref\FacultyDataLayer.dll
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\obj\Debug\net5.0\FacultyDataLayer.pdb
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\bin\Debug\net5.0\FacultyDataLayer.runtimeconfig.json
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\bin\Debug\net5.0\FacultyDataLayer.runtimeconfig.dev.json
+D:\Batch-12\Sprint-1\FacultyInformationSystem\FacultyDataLayer\obj\Debug\net5.0\FacultyDataLayer.genruntimeconfig.cache

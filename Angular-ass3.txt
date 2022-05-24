@@ -1,0 +1,8 @@
+1.Create Angular APP angular-service-assignement
+2.Create Angular Service Calculate and add the following methods
+	a. Add(n1:number,n2:number):number
+	b.Sub(n1:number,n2:number):number
+	c.Div(n1:number,n2:number):number
+	d.Mul(n1:number,n2:number):number
+3.Create Demo1 component and test service methods with required UI
+Note: Implement routing and two-way-binding

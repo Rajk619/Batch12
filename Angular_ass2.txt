@@ -1,0 +1,5 @@
+1.Create Angular App
+2.Create Model Movie(movieId,movieName,lang,releaseYear,actor,director)
+3.Create a view to accept movie details from the user and bind to Movie model
+4.Add movie model details to movie array
+5.Display list of movie details to view using table format.
